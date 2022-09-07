@@ -1,6 +1,6 @@
 # Title
 
-{Before using this template, read the accompanying [tutorial template guide](tutorial-template-guide)}.
+{Before using this template, read the accompanying [tutorial template guide](tutorial-template-guide.md)}.
 
 ## Overview
 
